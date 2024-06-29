@@ -1,0 +1,57 @@
+
+.head{
+    background-color: brown;  
+}
+.center{
+min-height: 1200px;
+background-color: aqua;
+
+}
+
+.footer{
+height: 200px;
+background-color: brown;
+
+}
+
+.name{
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.left1{
+padding: -32px;
+}
+.right1{
+    padding: -32px;
+
+}
+
+.box1{
+    height: 550px;
+    
+    background-color: blueviolet;
+    
+}
+.box2{
+    
+    height: 550px;
+    background-color: rgb(15, 22, 61);
+}
+.box3{
+  
+    height: 400px;
+    background-color: rgb(134, 43, 43);
+}
+.box4{
+
+    height: 400px;
+    background-color: rgb(226, 192, 43);
+}
+.box5{
+   
+    height: 400px;
+    background-color: rgb(226, 168, 43);
+}
+
